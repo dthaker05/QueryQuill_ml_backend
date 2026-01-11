@@ -1,1 +1,10 @@
+fastapi
+uvicorn
+sentence-transformers
+torch
+transformers
+numpy==1.23.5
+scikit-learn
+spacy
+pdfplumber
 
